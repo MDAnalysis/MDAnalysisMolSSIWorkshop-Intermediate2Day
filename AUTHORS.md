@@ -1,9 +1,9 @@
 # Authors
 
-The UGM2023 repository was created by Irfan Alibay in 2023.
+The MDAnalysisWorkshop2023 repository was created by Irfan Alibay in 2023.
 
 All contributing authors are listed in this file below.
-The repository history at https://github.com/MDAnalysis/UGM2023
+The repository history at https://github.com/MDAnalysis/MDAnalysisWorkshop2023
 and the CHANGELOG show individual code contributions.
 
 ## Chronological list of authors
