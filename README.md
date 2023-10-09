@@ -5,8 +5,13 @@ Materials for the 2023 (and maybe beyond) MDAnalysis workshops.
 
 | Session                 | Materials |
 |-------------------------|-----------|
-| Introduction to the MDAnalysis package | [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_01_System_Manipulation.ipynb) |
-| MDAnalysis: advanced topics | [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCPBioSim/MDAnalysis_ML_workshop/blob/main/MD/MD_02_Distances_Trajectories.ipynb) |
+| Lecture 1: MDAnalysis Basics| [![MDA Part 1 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Lecture1_MDAnalysisBasics.ipynb) |
+
+| Tutorial 1: Atom Selections  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Tutorial1_System_Manipulation.ipynb) |
+
+| MDAnalysis: advanced topics | [![MDA Part 2 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Lecture2_Distances_Trajectories.ipynb) |
+
+| Tutorial 2: Distances and Trajectories | [![MDA Part 2 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Tutorial2_Distances_Trajectories.ipynb) |
 
 ## Setting up your Python environment *before the workshop*
 
@@ -23,10 +28,9 @@ As downloading and installing everything will take a little while, ideally you s
 
 If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
 
-## Course pre-requisites
+## Workshop pre-requisites
 
-The course assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
-
+The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
 
 
 ## Code of Conduct

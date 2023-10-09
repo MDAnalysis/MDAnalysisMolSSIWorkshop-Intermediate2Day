@@ -1,0 +1,17 @@
+name: mda_workshop
+channels:
+  -  conda-forge
+dependencies:
+  - MDAnalysis
+  - MDAnalysisTests
+  - MDAnalysisData
+  - nglview
+  - notebook<7
+  - jupyter_contrib_nbextensions
+  - importlib-metadata
+  # For prsentations
+  - rise
+  # testing
+  - pytest
+  - nbval
+  - ipywidgets<8
