@@ -45,6 +45,8 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
 materials.
 
+This workshop has been made possible in part by a [grant] (https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
+
 ##
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
 [2]: https://numpy.org/
