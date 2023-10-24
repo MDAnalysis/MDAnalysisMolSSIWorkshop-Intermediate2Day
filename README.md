@@ -1,14 +1,33 @@
 # MDAnalysisWorkshop2023
-Materials for the 2023 (and maybe beyond) MDAnalysis workshops.
 
-## Sessions
+Materials for the October 25, 2023 MDAnalysis workshop.
+
+## Schedule
+
+15:00 - 15:30 UTC - Installation troubleshooting (Ian McKenney)
+15:30 - 16:30 UTC - Lecture 1 + Tutorial 1 (Micaela Matta)
+16:30 - 16:45 UTC - Q&A / Break
+16:45 - 17:45 UTC - Lecture 2 + Tutorial 2 (Richard Gowers)
+17:45 - 18:00 UTC - Q&A / Break 
+18:00 - 18:30 UTC - Q&A (Fiona Naughton)
+
+## Workshop pre-requisites
+
+The workshop assumes that attendees have a working knowledge of MD simulation workflows, [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
+
+
+## Google Colab
+
+
+If for any reason you cannot set up a local environment with all required packages as explained below, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
 
 | Session                 | Materials |
 |-------------------------|-----------|
 | Lecture 1: MDAnalysis Basics| [![MDA Part 1 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture1_MDAnalysisBasics.ipynb) |
-| Tutorial 1: Atom Selections  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial1_System_Manipulation.ipynb) |
+| Tutorial 1: System Manipulation and Atom Selection  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial1_System_Manipulation.ipynb) |
 | Lecture 2: Distance Calculations | [![MDA Part 2 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture2_Distance_calculations.ipynb) |
 | Tutorial 2: Distances and Trajectories | [![MDA Part 2 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial2_Distances_Trajectories.ipynb) |
+
 
 ## Setting up your Python environment *before the workshop*
 
@@ -20,14 +39,6 @@ are provided in [`INSTALL.md`](INSTALL.md).
 A full list of the required Python packages can be seen inside [`environment.yml`](environment.yml).
 
 As downloading and installing everything will take a little while, ideally you should follow these steps before the workshop starts. If you encounter any issues during installation, we can help!
-
-## Google Colab
-
-If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
-
-## Workshop pre-requisites
-
-The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
 
 
 ## Code of Conduct
