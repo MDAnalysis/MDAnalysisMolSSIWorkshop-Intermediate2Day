@@ -4,12 +4,14 @@ Materials for the October 25, 2023 MDAnalysis workshop.
 
 ## Schedule
 
-15:00 - 15:30 UTC - Installation troubleshooting (Ian McKenney)
-15:30 - 16:30 UTC - Lecture 1 + Tutorial 1 (Micaela Matta)
-16:30 - 16:45 UTC - Q&A / Break
-16:45 - 17:45 UTC - Lecture 2 + Tutorial 2 (Richard Gowers)
-17:45 - 18:00 UTC - Q&A / Break 
-18:00 - 18:30 UTC - Q&A (Fiona Naughton)
+| Time | Topic | Instructor |
+|-----|-----|-----|
+|15:00 - 15:30 UTC | Installation troubleshooting | Ian McKenney| 
+|15:30 - 16:30 UTC | Lecture 1 + Tutorial 1 | Micaela Matta |
+|16:30 - 16:45 UTC | Q&A / Break||
+|16:45 - 17:45 UTC | Lecture 2 + Tutorial 2 | Richard Gowers| 
+|17:45 - 18:00 UTC |Q&A / Break ||
+|18:00 - 18:30 UTC |Final Q&A | Fiona Naughton |
 
 ## Workshop pre-requisites
 
