@@ -5,13 +5,10 @@ Materials for the 2023 (and maybe beyond) MDAnalysis workshops.
 
 | Session                 | Materials |
 |-------------------------|-----------|
-| Lecture 1: MDAnalysis Basics| [![MDA Part 1 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Lecture1_MDAnalysisBasics.ipynb) |
-
-| Tutorial 1: Atom Selections  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Tutorial1_System_Manipulation.ipynb) |
-
-| MDAnalysis: advanced topics | [![MDA Part 2 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Lecture2_Distances_Trajectories.ipynb) |
-
-| Tutorial 2: Distances and Trajectories | [![MDA Part 2 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/notebooks/Tutorial2_Distances_Trajectories.ipynb) |
+| Lecture 1: MDAnalysis Basics| [![MDA Part 1 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture1_MDAnalysisBasics.ipynb) |
+| Tutorial 1: Atom Selections  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial1_System_Manipulation.ipynb) |
+| Lecture 2: Distance Calculations | [![MDA Part 2 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture2_Distance_calculations.ipynb) |
+| Tutorial 2: Distances and Trajectories | [![MDA Part 2 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial2_Distances_Trajectories.ipynb) |
 
 ## Setting up your Python environment *before the workshop*
 
@@ -47,6 +44,8 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
 materials.
+
+This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
 
 ##
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
