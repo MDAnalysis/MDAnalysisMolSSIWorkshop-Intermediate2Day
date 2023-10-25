@@ -22,3 +22,4 @@ The rules for this file:
 - Irfan Alibay @IAlibay
 - Lily Wang @lilyminium
 - Micaela Matta @micaela-matta
+- Jenna Swarthout Goddard @jennaswa
