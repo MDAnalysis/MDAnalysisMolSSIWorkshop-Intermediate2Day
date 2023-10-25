@@ -6,12 +6,12 @@ Materials for the October 25, 2023 MDAnalysis workshop.
 
 | Time | Topic | Instructor |
 |-----|-----|-----|
-|15:00 - 15:30 UTC | Installation troubleshooting | @ianmkenney | 
-|15:30 - 16:30 UTC | Lecture 1 + Tutorial 1 | @micaela-matta |
+|15:00 - 15:30 UTC | Installation troubleshooting | [Ian Kenney](https://github.com/ianmkenney) | 
+|15:30 - 16:30 UTC | Lecture 1 + Tutorial 1 | [micaela-matta](https://github.com/micaela-matta) |
 |16:30 - 16:45 UTC | Q&A / Break||
-|16:45 - 17:45 UTC | Lecture 2 + Tutorial 2 | @richardjgowers | 
+|16:45 - 17:45 UTC | Lecture 2 + Tutorial 2 | [Richard Gowers](https://github.com/richardjgowers) | 
 |17:45 - 18:00 UTC |Q&A / Break ||
-|18:00 - 18:30 UTC |Final Q&A | @fiona-naughton |
+|18:00 - 18:30 UTC |Final Q&A | [Fiona Naughton](https://github.com/fiona-naughton) |
 
 ## Workshop pre-requisites
 
