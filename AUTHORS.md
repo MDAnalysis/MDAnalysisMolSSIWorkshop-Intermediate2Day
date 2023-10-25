@@ -22,4 +22,5 @@ The rules for this file:
 - Irfan Alibay @IAlibay
 - Lily Wang @lilyminium
 - Micaela Matta @micaela-matta
+- Richard Gowers @richardjgowers
 - Jenna Swarthout Goddard @jennaswa
