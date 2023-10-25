@@ -3,11 +3,12 @@
 Materials for the October 25, 2023 MDAnalysis workshop.
 
 ## Schedule
+Moderator: [Jenna Swarthout Goddard](https://github.com/jennaswa)
 
 | Time | Topic | Instructor |
 |-----|-----|-----|
 |15:00 - 15:30 UTC | Installation troubleshooting | [Ian Kenney](https://github.com/ianmkenney) | 
-|15:30 - 16:30 UTC | Lecture 1 + Tutorial 1 | [micaela-matta](https://github.com/micaela-matta) |
+|15:30 - 16:30 UTC | Lecture 1 + Tutorial 1 | [Micaela Matta](https://github.com/micaela-matta) |
 |16:30 - 16:45 UTC | Q&A / Break||
 |16:45 - 17:45 UTC | Lecture 2 + Tutorial 2 | [Richard Gowers](https://github.com/richardjgowers) | 
 |17:45 - 18:00 UTC |Q&A / Break ||
