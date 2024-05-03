@@ -1,6 +1,6 @@
 # Authors
 
-The MDAnalysisWorkshop2023 repository was created by Irfan Alibay in 2023.
+The MDAnalysisWorkshop-UCL24 repository was created by Micaela Matta in 2024.
 
 All contributing authors are listed in this file below.
 The repository history at https://github.com/MDAnalysis/MDAnalysisWorkshop2023
@@ -19,7 +19,6 @@ The rules for this file:
 -->
 
 **2024**
-- Irfan Alibay @IAlibay
-- Lily Wang @lilyminium
 - Micaela Matta @micaela-matta
+- Jenna Swarthout-Goddard @jennaswa
 - Richard J. Gowers @richardjgowers
