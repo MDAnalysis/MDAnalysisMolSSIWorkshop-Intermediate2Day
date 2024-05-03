@@ -1,14 +1,33 @@
 # MDAnalysisWorkshop UCL 2024
 Materials for the May 10, 2024 MDAnalysis workshop at University College London.
 
-## Sessions
+## Instructors
+Richard Gowers   
+Micaela Matta   
 
-| Session                 | Materials |
-|-------------------------|-----------|
-| Lecture 1: MDAnalysis Basics| [![MDA Part 1 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture1_MDAnalysisBasics.ipynb) |
-| Tutorial 1: Atom Selections  | [![MDA Part 1 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial1_System_Manipulation.ipynb) |
-| Lecture 2: Distance Calculations | [![MDA Part 2 Lecture](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Lecture2_Distance_calculations.ipynb) |
-| Tutorial 2: Distances and Trajectories | [![MDA Part 2 Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisWorkshop2023/blob/main/notebooks/Tutorial2_Distances_Trajectories.ipynb) |
+
+## Location
+
+University College London
+See also [accessibility information](https://www.accessable.co.uk/the-university-of-edinburgh/king-s-buildings/access-guides/murchison-house#d2279e8b-6141-084a-857c-3d756f3983bb).
+
+
+## Schedule
+
+|  Time 	        | Session                 | Materials |
+|---------------	|-------------------------|-----------|
+| 9:00-9:30     	| Check-In/Registration          	|   	|
+| 9:30-9:40     	| Opening Remarks and Introductions       	|   	|
+| 9:40-10:45    	| Session 1            	|  [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	|
+| 10:45-11:10   	| :coffee: break  :coffee:              	|   	|
+| 11:10-12:15   	| Session 2            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Distances_Trajectories.ipynb)   	|
+| 12:30-13:30   	| Lunch                 	|   	|
+| 13:30-14:45   	| Session 3          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
+| 14:45-15:10   	| :coffee: break   :coffee:             	|   	| 
+| 15:10-16:15   	| Session 4          	| [![ML DR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_DR_02.ipynb)  	|
+| 16:15-16:50   	| Code clinic       	|   	|
+| 16:50-17:00   	| Closing remarks    	|   	|
+
 
 ## Setting up your Python environment *before the workshop*
 
