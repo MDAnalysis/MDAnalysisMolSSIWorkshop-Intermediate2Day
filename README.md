@@ -86,7 +86,32 @@ Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
 
 We would like to give a special thanks to our partners for this workshop, the [Thomas Young Centre](https://thomasyoungcentre.org/), the [JCMaxwell Node of CECAM](https://uk-jcmaxwell.cecam.org/), and [CCPBioSim](https://www.ccpbiosim.ac.uk/).
 
+<img
+src="/public/images/TYC_Logo.png"
+title="Thomas Young Centre Logo" alt="Thomas Young Centre Logo"
+style="float: left; height: 5em; " />
+
+<img
+src="/public/images/CECAM_UK_JCMAXWELL.png"
+title="JCMaxwell Node of CECAM Logo" alt="JCMaxwell Node of CECAM Logo"
+style="float: left; height: 5em; " />
+
+<img
+src="/public/images/CCPBioSim_Logo.jpeg"
+title="CCPBioSim Logo" alt="CCPBioSim Logo"
+style="float: left; height: 5em; " />
+
 This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
+
+<img
+src="{{site.images}}/CZI_Logo.jpg"
+title="Chan Zuckerberg Initiative Logo" alt="Chan Zuckerberg Initiative Logo"
+style="float: left; height: 5em; " />
+
+<img
+src="{{site.images}}/numfocus-sponsored.png"
+title="NumFOCUS Sponsored Project Logo" alt="NumFOCUS Sponsored Project Logo"
+style="float: left; height: 5em; " />
 
 ##
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
