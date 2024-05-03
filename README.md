@@ -92,7 +92,7 @@ title="Thomas Young Centre Logo" alt="Thomas Young Centre Logo"
 style="float: left; height: 5em; " />
 
 <img
-src="/logos/CECAM_UK_JCMAXWELL.png"
+src="/logos/CECAM_UK_JCMAXWELL.jpg"
 title="JCMaxwell Node of CECAM Logo" alt="JCMaxwell Node of CECAM Logo"
 style="float: left; height: 5em; " />
 
