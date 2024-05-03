@@ -18,7 +18,8 @@ The rules for this file:
   * Don't ever delete anything
 -->
 
-**2023**
+**2024**
 - Irfan Alibay @IAlibay
 - Lily Wang @lilyminium
 - Micaela Matta @micaela-matta
+- Richard J. Gowers @richardjgowers
