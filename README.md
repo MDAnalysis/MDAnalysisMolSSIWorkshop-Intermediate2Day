@@ -2,14 +2,29 @@
 Materials for the May 10, 2024 MDAnalysis workshop at University College London.
 
 ## Instructors
-Richard Gowers   
-Micaela Matta   
+
+Richard Gowers - @richardjgowers
+Micaela Matta  - @micaela-matta
 
 
 ## Location
 
+#### Workshop Lectures and Tutorials:
+
+Public Cluster B29, Foster Court Building
 University College London
-See also [accessibility information](https://www.accessable.co.uk/the-university-of-edinburgh/king-s-buildings/access-guides/murchison-house#d2279e8b-6141-084a-857c-3d756f3983bb).
+Gower Street, London, WC1E 6BT
+United Kingdom
+
+
+#### Coffee Breaks and Lunch:
+
+Garden Room, Wilkins Building
+University College London
+Gower Street, London, WC1E 6BT
+United Kingdom
+
+See also [accessibility information]([https://www.accessable.co.uk/the-university-of-edinburgh/king-s-buildings/access-guides/murchison-house#d2279e8b-6141-084a-857c-3d756f3983bb](https://www.accessable.co.uk/venues/foster-court-public-cluster-b29).
 
 
 ## Schedule
