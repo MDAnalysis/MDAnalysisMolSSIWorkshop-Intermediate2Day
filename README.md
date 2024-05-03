@@ -84,6 +84,8 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
+We would like to give a special thanks to our partners for this workshop, the [Thomas Young Centre](https://thomasyoungcentre.org/), the [JCMaxwell Node of CECAM](https://uk-jcmaxwell.cecam.org/), and [CCPBioSim](https://www.ccpbiosim.ac.uk/).
+
 This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
 
 ##
