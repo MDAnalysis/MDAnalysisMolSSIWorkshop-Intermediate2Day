@@ -4,8 +4,8 @@ Materials for the May 10, 2024 MDAnalysis workshop at University College London.
 ## Instructors
 
 Richard Gowers - @richardjgowers
-Micaela Matta  - @micaela-matta
 
+Micaela Matta  - @micaela-matta
 
 ## Location
 
