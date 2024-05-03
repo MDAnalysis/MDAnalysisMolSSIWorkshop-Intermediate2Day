@@ -1,5 +1,5 @@
-# MDAnalysisWorkshop2023
-Materials for the 2023 (and maybe beyond) MDAnalysis workshops.
+# MDAnalysisWorkshop UCL 2024
+Materials for the May 10, 2024 MDAnalysis workshop at University College London.
 
 ## Sessions
 
