@@ -3,46 +3,44 @@ Materials for the May 10, 2024 MDAnalysis workshop at University College London.
 
 ## Instructors
 
-Richard Gowers - @richardjgowers
+Richard Gowers - [@richardjgowers](https://github.com/richardjgowers)
 
-Micaela Matta  - @micaela-matta
+Micaela Matta  - [@micaela-matta](https://github.com/micaela-matta)
 
 ## Location
 
 #### Workshop Lectures and Tutorials:
 
-Public Cluster B29, Foster Court Building
-University College London
-Gower Street, London, WC1E 6BT
-United Kingdom
-
-
-#### Coffee Breaks and Lunch:
-
-Garden Room, Wilkins Building
-University College London
-Gower Street, London, WC1E 6BT
+Public Cluster B29, Foster Court Building  
+University College London  
+Gower Street, London, WC1E 6BT  
 United Kingdom
 
 See also [accessibility information](https://www.accessable.co.uk/venues/foster-court-public-cluster-b29).
 
+#### Coffee Breaks and Lunch:
+
+Garden Room, Wilkins Building  
+University College London  
+Gower Street, London, WC1E 6BT  
+United Kingdom
+
+See also [accessibility information](https://www.accessable.co.uk/ucl/access-guides/wilkins-building-garden-room-meeting-room).
 
 ## Schedule
 
-|  Time 	        | Session                 | Materials |
-|---------------	|-------------------------|-----------|
-| 9:00-9:30     	| Check-In/Registration          	|   	|
-| 9:30-9:40     	| Opening Remarks and Introductions       	|   	|
-| 9:40-10:45    	| Session 1            	|  [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	|
-| 10:45-11:10   	| :coffee: break  :coffee:              	|   	|
-| 11:10-12:15   	| Session 2            	| [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Distances_Trajectories.ipynb)   	|
-| 12:30-13:30   	| Lunch                 	|   	|
-| 13:30-14:45   	| Session 3          	| [![ML Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_clustering_01.ipynb)  	|  
-| 14:45-15:10   	| :coffee: break   :coffee:             	|   	| 
-| 15:10-16:15   	| Session 4          	| [![ML DR](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/ML/ML_DR_02.ipynb)  	|
-| 16:15-16:50   	| Code clinic       	|   	|
-| 16:50-17:00   	| Closing remarks    	|   	|
-
+| Time (GMT)    | Session                                                  | Materials                                                                                                                                                                |
+|---------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:00-9:15     | Check-In/Registration                                    |   	                                                                                                                                                                      |
+| 9:15-9:25     | Opening Remarks and Introductions	                       |   	                                                                                                                                                                      |
+| 9:25-10:45    | **Session 1:** MDAnalysis Basics and System Manipulation | [Lecture 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Lecture1_MDAnalysisBasics.ipynb), [Tutorial 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Tutorial1_System_Manipulation.ipynb)                                                       	                                                                    |
+| 10:45-11:10   | :coffee: break :coffee:          	                       |   	                                                                                                                                                                      |
+| 11:10-12:30   | **Session 2:** Distances and Trajectories  	             | [Lecture 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Lecture2_Distance_calculations.ipynb), [Tutorial 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Tutorial2_Distances_Trajectories.ipynb)                                                                                                                         |
+| 12:30-13:45   | Lunch                 	                                 |   	                                                                                                                                                                      |
+| 13:45-15:05   | **Session 3:** *TBA*                                     | *TBA*                                                                                                                                                                    |
+| 15:05-15:30   | :coffee: break  :coffee:         	                       |   	                                                                                                                                                                      |
+| 15:30-16:50   | **Session 4:** *TBA*                                     | *TBA*                                                                                                                                                                    |
+| 16:50-17:00   | Closing Remarks    	                                     |     	                                                                                                                                                                    |
 
 ## Setting up your Python environment *before the workshop*
 
@@ -55,14 +53,22 @@ A full list of the required Python packages can be seen inside [`environment.yml
 
 As downloading and installing everything will take a little while, ideally you should follow these steps before the workshop starts. If you encounter any issues during installation, we can help!
 
+**Note:** Materials may change between now and the time of the workshop, so while we ask you to install ahead of time, also make sure to `git pull` just prior to the start of the workshop.
+
 ## Google Colab
 
-If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required. 
+If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required.
+
+| Session                                                  | Materials                                                                                                                                                                        |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Session 1:** MDAnalysis Basics and System Manipulation |[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_01_System_Manipulation.ipynb)  	                                                                                                              |
+| **Session 2:** Distances and Trajectories  	             | [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/WorkshopMDMLEdinburgh2022/blob/main/MD/MD_02_Distances_Trajectories.ipynb)                                                                                                               |
+| **Session 3:** *TBA*                                     |                                                                                                                                                                                  | 
+| **Session 4:** *TBA*                                     |                                                                                                                                                                                  |
 
 ## Workshop pre-requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1], Python (especially the [NumPy library][2]), and the bash shell.
-
 
 ## Code of Conduct
 
@@ -76,10 +82,9 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 
 ## Acknowledgements
 
-Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
-materials.
+Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
-This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
+This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
 
 ##
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
