@@ -10,6 +10,7 @@ dependencies:
   - notebook<7
   - jupyter_contrib_nbextensions
   - importlib-metadata
+  - rdkit
   # For prsentations
   - rise
   # testing
