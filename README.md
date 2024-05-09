@@ -7,16 +7,18 @@ Richard Gowers - [@richardjgowers](https://github.com/richardjgowers)
 
 Micaela Matta  - [@micaela-matta](https://github.com/micaela-matta)
 
+Harry Lewin (Teaching Assistant)
+
 ## Location
 
 #### Workshop Lectures and Tutorials:
 
-Public Cluster B29, Foster Court Building  
+G15 Public Cluster, DMS Watson Building
 University College London  
 Gower Street, London, WC1E 6BT  
 United Kingdom
 
-See also [accessibility information](https://www.accessable.co.uk/venues/foster-court-public-cluster-b29).
+See also [accessibility information](https://www.accessable.co.uk/ucl/access-guides/dms-watson-building-public-cluster-g15).
 
 #### Coffee Breaks and Lunch:
 
