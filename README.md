@@ -13,7 +13,7 @@ Harry Lewin (Teaching Assistant)
 
 #### Workshop Lectures and Tutorials:
 
-G15 Public Cluster, DMS Watson Building
+G15 Public Cluster, DMS Watson Building  
 University College London  
 Gower Street, London, WC1E 6BT  
 United Kingdom
