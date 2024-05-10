@@ -31,7 +31,7 @@ See also [accessibility information](https://www.accessable.co.uk/ucl/access-gui
 
 ## Schedule
 
-| Time (GMT)    | Session                                                  | Materials                                                                                                                                                                |
+| Time (BST)    | Session                                                  | Materials                                                                                                                                                                |
 |---------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:15     | Check-In/Registration                                    |   	                                                                                                                                                                      |
 | 9:15-9:25     | Opening Remarks and Introductions	                       |   	                                                                                                                                                                      |
