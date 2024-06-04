@@ -6,6 +6,7 @@ dependencies:
   - MDAnalysis
   - MDAnalysisTests
   - MDAnalysisData
+  - cookiecutter
   - nglview==3.0.3
   - notebook<7
   - jupyter_contrib_nbextensions
