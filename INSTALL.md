@@ -14,8 +14,11 @@ See below for instructions on how to set up a local copy of the Python environme
 ## Installing the Python environment
 
 Due to the complexity of the workshop environment, we strongly recommend the
-use of the [Anaconda Python distribution][2]. The instructions provided here
-assume the use of [conda][3].
+use of [miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#miniforge)
+to leverage [mamba](https://mamba.readthedocs.io/en/stable/index.html) as it provides
+a fast and reliable way to install conda packages.
+
+Alternatively you can use [anaconda][2]. In this case, switch invocations of `mamba` to [conda][3] in the following instructions.
 
 ### 1. Creating a workshop environment
 
@@ -23,7 +26,7 @@ To create an environment named `mda_workshop` with all the necessary
 Python dependencies:
 
 ```bash
-conda env create --file=environment.yml
+mamba env create --file=environment.yml
 ```
 
 See the [conda documentation][4] for more information on how to access and
@@ -32,7 +35,7 @@ manage [conda][3] environments.
 To then activate this environment:
 
 ```bash
-conda activate mda_workshop
+mamba activate mda_workshop
 ```
 
 ### 2. Activating the Jupyter extensions
@@ -65,7 +68,7 @@ git --version
 If you do not have git installed, or the version output is not at least 2.28, you should install a new version of git with:
 
 ```bash
-conda install -c conda-forge git
+mamba install -c conda-forge git
 ```
 
 Once installed, you can configure your git username and email with the following commands, inserting your name and email"
