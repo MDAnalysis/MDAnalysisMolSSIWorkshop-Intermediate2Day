@@ -3,7 +3,8 @@
 ## Overview
 
 This workshop is delivered mainly through a series of [Jupyter notebooks][1]
-that allow for interactive Python programming.
+that allow for interactive Python programming. We will also be using the git version control software during this workshop. We will be using GitHub as a remote host for a git repository, which will require a GitHub account. If you do not already have one, you can create one by going to [github.com](https://github.com/), and clicking "Sign Up".
+
 
 To use these, several Python packages must be installed. A full list of these
 can be found in [`environment.yml`](environment.yml). 
@@ -53,6 +54,30 @@ jupyter nbextension enable limit_output/main
 jupyter nbextension enable toc2/main
 ```
 
+## Installing git
+
+With your environment activated, you can check if you have git installed with:
+
+```bash
+git --version
+```
+
+If you do not have git installed, or the version output is not at least 2.28, you should install a new version of git with:
+
+```bash
+conda install -c conda-forge git
+```
+
+Once installed, you can configure your git username and email with the following commands, inserting your name and email"
+
+```bash
+git config --global user.name "YOUR_FIRSTNAME YOUR_LASTNAME"
+git config --global user.email "YOUR_EMAIL_ADDRESS"
+```
+
+## Connecting to GitHub using the Secure Shell Protocol (SSH)
+
+Finally, you will need to setup credentials to securely push data to and retrieve data from GitHub. Follow the [instructions given by GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to create an SSH key and add it to your account.
 
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
 [2]: https://docs.anaconda.com/anaconda/install/
