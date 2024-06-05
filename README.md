@@ -69,6 +69,12 @@ As downloading and installing everything will take a little while, ideally you s
 ## Google Colab
 
 If for any reason you cannot set up a local environment with all required packages, you can use Google Colab to run all workshop notebooks directly from your browser, no installation required.                                                       
+| Tutorial                                                                | Materials                                                                                                                    |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Tutorial 1:** Loading and Manipulating your Molecular Simulation Data | [![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial1_System_Manipulation.ipynb)  	                                           |
+| **Tutorial 2:** Positions, Distances and Trajectories  	                | [![MDA Part 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial2_Distances_Trajectories.ipynb)                                           |
+| **Tutorial 3:** Analysis Tools                                          | [![MDA Part 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                         |
+| **Tutorial 4:** Advanced Universe Creation and Attributes               | [![MDA Part 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                         |
 
 ## Workshop pre-requisites
 
