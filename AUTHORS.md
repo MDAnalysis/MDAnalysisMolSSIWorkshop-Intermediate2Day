@@ -1,9 +1,10 @@
 # Authors
 
-The MDAnalysisWorkshop-UCL24 repository was created by Micaela Matta in 2024.
+The MDAnalysisMolSSIWorkshop-Intermediate2Day repository was created by Jenna Swarthout Goddard in 2024, based on a clone from the [MDAnalysisWorkshop-Intro1Day](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1Day) repository.
 
 All contributing authors are listed in this file below.
-The repository history at https://github.com/MDAnalysis/MDAnalysisWorkshop2023
+
+The repository history at [https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day)
 and the CHANGELOG show individual code contributions.
 
 ## Chronological list of authors
@@ -20,5 +21,5 @@ The rules for this file:
 
 **2024**
 - Micaela Matta @micaela-matta
-- Jenna Swarthout-Goddard @jennaswa
+- Jenna Swarthout Goddard @jennaswa
 - Richard J. Gowers @richardjgowers
