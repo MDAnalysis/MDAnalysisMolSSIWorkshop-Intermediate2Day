@@ -23,6 +23,21 @@ Tempe, AZ 85287
 USA
 
 ## Schedule
+### Day 1, June 24th
+| Time (BST)    | Session                                                  | Materials                                                                                                                    |
+|---------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| 08:00-09:00   | Breakfast and Check-In/Registration                      |   	                                                                                                                          |
+| 09:00-09:15   | Introduction                    	                       |   	                                                                                                                          |
+| 09:15-11:00   | Introduction to MDAnalysis I                             | [Lecture 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Lecture1_MDAnalysisBasics.ipynb), [Tutorial 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Tutorial1_System_Manipulation.ipynb), [Lecture 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Lecture2_Distance_calculations.ipynb), [Tutorial 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1.0Day/blob/may24-ws/notebooks/Tutorial2_Distances_Trajectories.ipynb)                                                                                                                               |
+| 11:00-11:15   | Break                            	                       |   	                                                                                                                          |
+| 11:15-13:00   | Introduction to MDAnalysis II              	             | [Tutorial 3](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1Day/blob/may24-ws/notebooks/Tutorial3_Analysis.ipynb), [Tutorial 4](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intro1Day/blob/may24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                                                 |
+| 13:00-14:00   | Lunch                 	                                 |   	                                                                                                                          |
+| 14:00-14:30   | Introduction to the Bash Shell                           | [Software Carpentry Tutorial](https://swcarpentry.github.io/shell-novice/), [MolSSI Command Line Basics Lesson](https://education.molssi.org/python-package-best-practices/00-command-line-basics.html)                                                                                                                  |
+| 14:30-15:30   | Version Control I               	                       | [MolSSI git and GitHub Lessons](https://education.molssi.org/python-package-best-practices/index.html#git-and-github)  	    |
+| 15:30-15:45   | Break                            	                       |   	                                                                                                                          |
+| 15:45-16:45   | Version Control II               	                       | [MolSSI git and GitHub Lessons](https://education.molssi.org/python-package-best-practices/index.html#git-and-github)  	    |
+| 16:45-17:00   | Break                            	                       |   	                                                                                                                          |
+| 17:00-18:30   | Python Packaging                	                       | [MolSSI Python Package Set-Up Lesson](https://education.molssi.org/python-package-best-practices/01-package-setup.html)  	  |
 
 ## Setting up your Python environment *before the workshop*
 
