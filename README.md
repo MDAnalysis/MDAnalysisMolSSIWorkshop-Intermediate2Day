@@ -24,7 +24,7 @@ USA
 
 ## Schedule
 ### Day 1, June 24th
-| Time (BST)    | Session                                                  | Materials                                                                                                                   |
+| Time (MST)    | Session                                                  | Materials                                                                                                                   |
 |---------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 08:00-09:00   | Breakfast and Check-In/Registration                      |   	                                                                                                                         |
 | 09:00-09:15   | Introduction                    	                       |   	                                                                                                                         |
@@ -40,7 +40,7 @@ USA
 | 17:00-18:30   | Python Packaging                	                       | [MolSSI Python Package Set-Up Lesson](https://education.molssi.org/python-package-best-practices/01-package-setup.html)  	 |
 
 ### Day 2, June 25th
-| Time (BST)    | Session                                                  | Materials                                                                                                                   |
+| Time (MST)    | Session                                                  | Materials                                                                                                                   |
 |---------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 08:00-09:00   | Breakfast and Check-In/Registration                      |   	                                                                                                                         |
 | 09:00-10:45   | Testing and pytest               	                       | [MolSSI Continuous Integration, Testing, Distribution Lessons](https://education.molssi.org/python-package-best-practices/index.html#continuous-integration-testing-distribution)             	                                                                                                                         |
