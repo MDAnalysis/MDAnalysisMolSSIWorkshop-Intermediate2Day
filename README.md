@@ -2,14 +2,14 @@
 Materials for the June 24-25, 2024 [MDAnalysis/MolSSI workshop](https://www.mdanalysis.org/2024/05/14/ASUworkshop/) at [Arizona State University](https://www.asu.edu/) (ASU).
 
 ## Instructors
-Irfan Alibay (@IAlibay)  
-Oliver Beckstein (@orbeckst)  
-Sam Ellis (@sjayellis)  
-Mike Henry (@mikemhenry)  
-Ian Kennay (@ianmkenney)  
-Fiona Naughton (@fiona-naughton)  
-Ashley Ringer-Macdonald (@armcdona)  
-Yuxuan Zhuang (@yuxuanzhuang)  
+Irfan Alibay - [@IAlibay](https://github.com/IAlibay)  
+Oliver Beckstein - [@orbeckst](https://github.com/orbeckst)    
+Sam Ellis - [@sjayellis](https://github.com/sjayellis)    
+Mike Henry - [@mikemhenry](https://github.com/mikemhenry)    
+Ian Kennay - [@ianmkenney](https://github.com/ianmkenney)   
+Fiona Naughton - [@fiona-naughton](https://github.com/fiona-naughton)   
+Ashley Ringer-Macdonald - [@armcdona](https://github.com/armcdona)   
+Yuxuan Zhuang - [@yuxuanzhuang](https://github.com/yuxuanzhuang)    
 
 ## Location
 
