@@ -22,17 +22,20 @@ The rules for this file:
 <!-- GitHub usernames of contributors to this release -->
 - IAlibay
 - lilyminium
+- jennaswa
 
 ### Added
 <!-- New added features -->
 - Added LICENSE
 - Added AUTHORS, CHANGELOG and code of conduct (PR #1)
+- Added June 2024 MDAnalysis-MolSSI Workshop Introduction Slides.pdf
 
 ### Fixed
 <!-- Bug fixes -->
 
 ### Changed
 <!-- Changes in existing functionality -->
+- Updated information in README
 
 ### Deprecated
 <!-- Soon-to-be removed features -->
