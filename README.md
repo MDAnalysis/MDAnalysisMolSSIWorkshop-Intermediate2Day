@@ -93,6 +93,7 @@ The MDAnalysis logo and its derivatives are licensed under the Creative Commons 
 ## Acknowledgements
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
+
 We would like to give a special thanks to our partner for this workshop, the [Molecular Sciences Software Institute](https://molssi.org/) (MolSSI).
 
 <img
