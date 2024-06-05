@@ -2,16 +2,24 @@
 Materials for the June 24-25, 2024 [MDAnalysis/MolSSI workshop](https://www.mdanalysis.org/2024/05/14/ASUworkshop/) at [Arizona State University](https://www.asu.edu/) (ASU).
 
 ## Instructors
+Irfan Alibay (@IAlibay)  
+Oliver Beckstein (@orbeckst)  
+Sam Ellis (@sjayellis)  
+Mike Henry (@mikemhenry)  
+Ian Kennay (@ianmkenney)  
+Fiona Naughton (@fiona-naughton)  
+Ashley Ringer-Macdonald (@armcdona)  
+Yuxuan Zhuang (@yuxuanzhuang)  
 
 ## Location
 
 #### Workshop Lectures and Tutorials:
 
-Room PSF 186, [Physical Sciences F Building](https://maps.app.goo.gl/b2kKhEBdvdvS2M3h9)
-Department of Physics
-Arizona State University
-550 E Tyler Mall, PSF 186
-Tempe, AZ 85287
+Room PSF 186, [Physical Sciences F Building](https://maps.app.goo.gl/b2kKhEBdvdvS2M3h9)  
+Department of Physics  
+Arizona State University  
+550 E Tyler Mall, PSF 186  
+Tempe, AZ 85287  
 USA
 
 ## Schedule
