@@ -28,11 +28,11 @@ USA
 |---------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 08:00-09:00   | Breakfast and Check-In/Registration                      |   	                                                                                                                         |
 | 09:00-09:15   | Introduction                    	                       |   	                                                                                                                         |
-| 09:15-10:05   | Introduction to MDAnalysis: Atoms                        | [Lecture 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Lecture1_MDAnalysisBasics.ipynb), [Tutorial 1](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial1_System_Manipulation.ipynb)                                                                                                                            |
-| 10:05-11:00   | Introduction to MDAnalysis: Dynamics                     | [Lecture 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Lecture2_Distance_calculations.ipynb), [Tutorial 2](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial2_Distances_Trajectories.ipynb)                                                                                                                              |
+| 09:15-10:05   | Introduction to MDAnalysis: Atoms                        | [Lecture 1](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Lecture1_MDAnalysisBasics.ipynb), [Tutorial 1](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial1_System_Manipulation.ipynb)                                                                                                                            |
+| 10:05-11:00   | Introduction to MDAnalysis: Dynamics                     | [Lecture 2](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Lecture2_Distance_calculations.ipynb), [Tutorial 2](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial2_Distances_Trajectories.ipynb)                                                                                                                              |
 | 11:00-11:15   | Break                            	                       |   	                                                                                                                         |
-| 11:15-12:05   |  MDAnalysis: Analysis                     	             | [Tutorial 3](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                                                |
-| 12:05-12:45   |  MDAnalysis: Advanced tips and tricks            	       | [Tutorial 4](https://github.com/MDAnalysis/MDAnalysisWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                                                |
+| 11:15-12:05   |  MDAnalysis: Analysis                     	             | [Tutorial 3](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                                                |
+| 12:05-12:45   |  MDAnalysis: Advanced tips and tricks            	       | [Tutorial 4](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                                                |
 | 12:45-13:00   | Introduction to MDAKits                                  |                                                                                                                             |
 | 13:00-14:00   | Lunch                 	               |   	                                                                                                                         |
 | 14:00-14:30   | Introduction to the Bash Shell                           | [Software Carpentry Tutorial](https://swcarpentry.github.io/shell-novice/), [MolSSI Command Line Basics Lesson](https://education.molssi.org/python-package-best-practices/00-command-line-basics.html)                                                                                                                 |
@@ -50,9 +50,11 @@ USA
 | 10:45-11:00   | Break                            	                       |   	                                                                                                                         |
 | 11:00-12:30   | Documentation                              	             | [MolSSI Code Style and documentation Lessons](https://education.molssi.org/python-package-best-practices/index.html#code-style-and-documentation)                                                                                                                                                                                 |
 | 12:30-13:30   | Lunch                 	                                 |   	                                                                                                                         |
-| 14:00-15:30   | Build an MDAKit Hackathon I               	             |   	                                                                                                                         |
+| 13:30-13:40   | Hackathon Indroduction                                   |                                                                                                                             |
+| 13:40-15:30   | [Hackathon](#hackathon)                    	             |   	                                                                                                                         |
 | 15:30-15:45   | Break                            	                       |   	                                                                                                                         |
-| 15:45-17:45   | Build an MDAKit Hackathon II               	             |   	                                                                                                                         |
+| 15:45-17:15   | [Hackathon](#hackathon)                    	             |   	                                                                                                                         |
+| 17:15-17:45   | Hackathon wrap-up and showcase             	             |   	                                                                                                                         |
 | 17:45-18:00   | Closing Remarks                            	             |   	                                                                                                                         |
 
 ## Setting up your Python environment *before the workshop*
@@ -81,6 +83,10 @@ If for any reason you cannot set up a local environment with all required packag
 ## Workshop pre-requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1] and Python (especially the [NumPy library][2]).
+
+## Hackathon
+
+The hackathon will be held on the second day of the workshop. We encourage you to start thinking about what you want to work on early. More information and ideas can be found in the [hackathon directory](./hackathon).
 
 ## Code of Conduct
 
