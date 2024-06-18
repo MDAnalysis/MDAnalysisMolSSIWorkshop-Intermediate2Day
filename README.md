@@ -80,6 +80,10 @@ If for any reason you cannot set up a local environment with all required packag
 | **Tutorial 3:** Analysis Tools                                          | [![MDA Part 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                         |
 | **Tutorial 4:** Advanced Universe Creation and Attributes               | [![MDA Part 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                         |
 
+## Connecting to the ASU "Guest" Wireless Network/Wifi
+
+Full instructions for [connecting to the **asu guest** wireless network](https://github.com/jennaswa/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/ASU-wifi/connecting-to-the-asu-wifi.pdf) can be found in `connecting-to-the-asu-wifi.pdf`.
+
 ## Workshop pre-requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1] and Python (especially the [NumPy library][2]).
