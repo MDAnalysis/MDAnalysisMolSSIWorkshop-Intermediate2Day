@@ -80,6 +80,24 @@ If for any reason you cannot set up a local environment with all required packag
 | **Tutorial 3:** Analysis Tools                                          | [![MDA Part 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                         |
 | **Tutorial 4:** Advanced Universe Creation and Attributes               | [![MDA Part 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                         |
 
+## Connecting to the Wireless Network/Wifi
+
+* The **asu guest** wireless network is *available to all participants* but limited in capabilities.
+* The **eduroam** network is available to anyone whose institution participates in [eduroam](https://eduroam.org/). If you need to set up anything, talk to your institutions IT support *before* coming to ASU.
+* The **asu** network is only available to members of Arizona State University.
+
+
+### "asu guest" network
+
+Full instructions for connecting to the **asu guest** wireless network can be found in [`connecting-to-the-asu-wifi.pdf`](https://github.com/jennaswa/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/ASU-wifi/connecting-to-the-asu-wifi.pdf). You will need a means to read email or receice text messages because as part of the registration process, a code will be sent to you.
+
+*The "asu guest" network is bandwidth-limited. Make sure that you [install the workshop environment](INSTALL.md) before coming to ASU.*
+
+### eduroam
+
+Provide your institution credentials. See https://eduroam.org/ and your institution's documentation for how to set up.
+
+
 ## Workshop pre-requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1] and Python (especially the [NumPy library][2]). For a better idea of things participants should be comfortable doing in Python or to freshen up on your skills, please have a look at the MolSSI lesson, “[Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)”.
@@ -95,8 +113,6 @@ All members of the MDAnalysis community and participants in MDAnalysis workshops
 ## License
 
 Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
-
-The MDAnalysis logo and its derivatives are licensed under the Creative Commons Attribution-NoDerivs 3.0 Unported License.
 
 ## Acknowledgements
 
