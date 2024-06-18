@@ -21,7 +21,8 @@ a fast and reliable way to install conda packages.
 Alternatively you can use [anaconda][2]. In this case, switch invocations of `mamba` to [conda][3] in the following instructions.
 
 ### 0. Install miniforge/mamba
-Follow the [miniformed installation instructions](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install): in your terminal, download the installer for your operating system and run it: 
+
+Follow the [miniforge installation instructions](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install): in your terminal, download the installer for your operating system and run it: 
 ```bash
 curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash "Miniforge3-$(uname)-$(uname -m).sh"
