@@ -51,9 +51,9 @@ USA
 | 11:00-12:30   | Documentation                              	             | [MolSSI Code Style and documentation Lessons](https://education.molssi.org/python-package-best-practices/index.html#code-style-and-documentation)                                                                                                                                                                                 |
 | 12:30-13:30   | Lunch                 	                                 |   	                                                                                                                         |
 | 13:30-13:40   | Hackathon Introduction                                   |                                                                                                                             |
-| 13:40-15:30   | [Hackathon](#hackathon)                    	             |   	                                                                                                                         |
+| 13:40-15:30   | [Hackathon](#hackathon)                    	             | [Hackathon Directory](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/tree/jun24-ws/hackathon)      |
 | 15:30-15:45   | Break                            	                       |   	                                                                                                                         |
-| 15:45-17:15   | [Hackathon](#hackathon)                    	             |   	                                                                                                                         |
+| 15:45-17:15   | [Hackathon](#hackathon)                    	             | [Hackathon Directory](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/tree/jun24-ws/hackathon)      |
 | 17:15-17:45   | Hackathon Wrap-Up and Showcase             	             |   	                                                                                                                         |
 | 17:45-18:00   | Closing Remarks                            	             |   	                                                                                                                         |
 
