@@ -20,11 +20,36 @@ a fast and reliable way to install conda packages.
 
 Alternatively you can use [anaconda][2]. In this case, switch invocations of `mamba` to [conda][3] in the following instructions.
 
+### 0. Install miniforge/mamba
+
+Follow the [miniforge installation instructions](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install): in your terminal, download the installer for your operating system and run it: 
+```bash
+curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+bash "Miniforge3-$(uname)-$(uname -m).sh"
+```
+We recommend you answer *yes* to the question to add code to your startup files.
+
+Exit the terminal and open a new terminal.
+
+To check that the installation is working, type
+```bash
+mamba --version
+```
+and you should see something like
+```
+mamba 1.5.8
+conda 24.3.0
+```
+
+
 ### 1. Creating a workshop environment
 
 To create an environment named `mda_workshop` with all the necessary
-Python dependencies:
-
+Python dependencies, first download the `environment.yml` file to your working directory with
+```bash
+curl -L -O https://raw.githubusercontent.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/jun24-ws/environment.yml 
+```
+Then create the environment with
 ```bash
 mamba env create --file=environment.yml
 ```
@@ -42,8 +67,8 @@ mamba activate mda_workshop
 
 The workshop leverages the extended utility of several Jupyter nbextensions.
 
-To install these, the followed should be run **once** (after having activated
-the conda environment):
+To install these, the followed should be run **once** (after *having activated
+the conda environment*):
 
 ```bash
 jupyter contrib nbextension install --user
