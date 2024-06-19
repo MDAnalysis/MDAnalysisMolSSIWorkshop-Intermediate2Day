@@ -83,15 +83,16 @@ If for any reason you cannot set up a local environment with all required packag
 ## Connecting to the Wireless Network/Wifi
 
 * The **asu guest** wireless network is *available to all participants* but limited in capabilities.
-* The **eduroam** network is available to anyone whose institution participates in [eduroam](https://eduroam.org/). If you need to set up anything, talk to your institutions IT support *before* coming to ASU.
+* The **eduroam** network is available to anyone whose institution participates in [eduroam](https://eduroam.org/). If you need to set up anything, talk to your institution's IT support *before* coming to ASU.
 * The **asu** network is only available to members of Arizona State University.
 
 
 ### "asu guest" network
 
-Full instructions for connecting to the **asu guest** wireless network can be found in [`connecting-to-the-asu-wifi.pdf`](https://github.com/jennaswa/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/ASU-wifi/connecting-to-the-asu-wifi.pdf). You will need a means to read email or receice text messages because as part of the registration process, a code will be sent to you.
+Full instructions for connecting to the **asu guest** wireless network can be found in [`connecting-to-the-asu-wifi.pdf`](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/connecting-to-the-asu-wifi.pdf). You will need a means to read email or receice text messages because as part of the registration process, a code will be sent to you.
 
 *The "asu guest" network is bandwidth-limited. Make sure that you [install the workshop environment](INSTALL.md) before coming to ASU.*
+
 
 ### eduroam
 
