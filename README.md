@@ -87,7 +87,7 @@ If for any reason you cannot set up a local environment with all required packag
 
 The primary communication channel for asking questions and having relevant discussions for this workshop will be the [MDAnalysis Discord server](https://discord.com/channels/807348386012987462/). To join the server, use the invitation link, [https://discord.gg/dMQWjNcZmh](https://discord.gg/dMQWjNcZmh). If you are new to Discord, [here are some resources](https://support.discord.com/hc/en-us/categories/115000217151) to help you get started.
 
-Once you join the server, you will see a “ASU WORKSHOP 2024” category. Start exploring the specific channels and read their descriptions to get used to the organization. You are welcome to introduce yourself in the #general channel and start asking any workshop-related questions in the #questions forum. Unfortunately Discord is limited in its ability to collapse the post titles posted in the #questions and #hackathon forums, so a workaround is to mute these channels (a post should show again if someone updates it).
+Once you join the server, you will see a “ASU WORKSHOP 2024” category. Start exploring the specific channels and read their descriptions to get used to the organization. You are welcome to introduce yourself in the `#general` channel and start asking any workshop-related questions in the `#questions` forum. Unfortunately Discord is limited in its ability to collapse the post titles posted in the `#questions` and `#hackathon` forums, so a workaround is to mute these channels (a post should show again if someone updates it).
 
 ## Connecting to the Wireless Network/Wifi
 
