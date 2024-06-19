@@ -57,7 +57,11 @@ USA
 | 17:15-17:45   | Hackathon Wrap-Up and Showcase             	             |   	                                                                                                                         |
 | 17:45-18:00   | Closing Remarks                            	             |   	                                                                                                                         |
 
-## Setting up your Python environment *before the workshop*
+## Hackathon
+
+The hackathon will be held on the second day of the workshop. We encourage you to start thinking about what you want to work on early. More information and ideas can be found in the [hackathon directory](./hackathon).
+
+## Setting up your Python Environment *Before the Workshop*
 
 <!--The workshop will be in a blended learning environment and hands-on. You will need a working installation of MDAnalysis and related packages including data to analyze in order to participate. The full installation may take up to about 1 GB of space (mostly for data, which you can delete after the workshop).--> 
 
@@ -80,12 +84,17 @@ If for any reason you cannot set up a local environment with all required packag
 | **Tutorial 3:** Analysis Tools                                          | [![MDA Part 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial3_Analysis.ipynb)                                                         |
 | **Tutorial 4:** Advanced Universe Creation and Attributes               | [![MDA Part 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Tutorial4_Advanced.ipynb)                                                         |
 
+## Asking Questions *Before and During the Workshop*
+
+The primary communication channel for asking questions and having relevant discussions for this workshop will be the [MDAnalysis Discord server](https://discord.com/channels/807348386012987462/). To join the server, use the invitation link, [https://discord.gg/dMQWjNcZmh](https://discord.gg/dMQWjNcZmh). If you are new to Discord, [here are some resources](https://support.discord.com/hc/en-us/categories/115000217151) to help you get started.
+
+Once you join the server, you will see a “ASU WORKSHOP 2024” category. Start exploring the specific channels and read their descriptions to get used to the organization. You are welcome to introduce yourself in the #general channel and start asking any workshop-related questions in the #questions forum. Unfortunately Discord is limited in its ability to collapse the post titles posted in the #questions and #hackathon forums, so a workaround is to mute these channels (a post should show again if someone updates it).
+
 ## Connecting to the Wireless Network/Wifi
 
 * The **asu guest** wireless network is *available to all participants* but limited in capabilities.
 * The **eduroam** network is available to anyone whose institution participates in [eduroam](https://eduroam.org/). If you need to set up anything, talk to your institution's IT support *before* coming to ASU.
 * The **asu** network is only available to members of Arizona State University.
-
 
 ### "asu guest" network
 
@@ -93,19 +102,13 @@ Full instructions for connecting to the **asu guest** wireless network can be fo
 
 *The "asu guest" network is bandwidth-limited. Make sure that you [install the workshop environment](INSTALL.md) before coming to ASU.*
 
-
 ### eduroam
 
 Provide your institution credentials. See https://eduroam.org/ and your institution's documentation for how to set up.
 
-
 ## Workshop pre-requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1] and Python (especially the [NumPy library][2]). For a better idea of things participants should be comfortable doing in Python or to freshen up on your skills, please have a look at the MolSSI lesson, “[Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)”.
-
-## Hackathon
-
-The hackathon will be held on the second day of the workshop. We encourage you to start thinking about what you want to work on early. More information and ideas can be found in the [hackathon directory](./hackathon).
 
 ## Code of Conduct
 
