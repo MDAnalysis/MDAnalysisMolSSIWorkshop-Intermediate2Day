@@ -97,7 +97,7 @@ Once you join the server, you will see a “ASU WORKSHOP 2024” category. Start
 
 ### "asu guest" network
 
-Full instructions for connecting to the **asu guest** wireless network can be found in [`connecting-to-the-asu-wifi.pdf`](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/connecting-to-the-asu-wifi.pdf). You will need a means to read email or receice text messages because as part of the registration process, a code will be sent to you.
+Full instructions for connecting to the **asu guest** wireless network can be found in [`connecting-to-the-asu-wifi.pdf`](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/connecting-to-the-asu-wifi.pdf). You will need a means to read email or receive text messages because as part of the registration process, a code will be sent to you.
 
 *The "asu guest" network is bandwidth-limited. Make sure that you [install the workshop environment](INSTALL.md) before coming to ASU.*
 
