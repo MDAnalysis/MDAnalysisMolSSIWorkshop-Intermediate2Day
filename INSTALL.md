@@ -105,7 +105,10 @@ git config --global user.email "YOUR_EMAIL_ADDRESS"
 
 ## Connecting to GitHub using the Secure Shell Protocol (SSH)
 
-Finally, you will need to setup credentials to securely push data to and retrieve data from GitHub. Follow the [instructions given by GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to create an SSH key and add it to your account.
+If you don't have a GitHub account, create one at https://github.com first.
+
+You will need to set up credentials to securely push data to and retrieve data from GitHub. Follow the [instructions given by GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to create an SSH key and add it to your account.
+
 
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
 [2]: https://docs.anaconda.com/anaconda/install/
