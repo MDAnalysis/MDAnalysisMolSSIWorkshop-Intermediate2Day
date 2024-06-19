@@ -106,7 +106,7 @@ Full instructions for connecting to the **asu guest** wireless network can be fo
 
 Provide your institution credentials. See https://eduroam.org/ and your institution's documentation for how to set up.
 
-## Workshop pre-requisites
+## Workshop Pre-Requisites
 
 The workshop assumes that attendees have a working knowledge of [Jupyter notebooks][1] and Python (especially the [NumPy library][2]). For a better idea of things participants should be comfortable doing in Python or to freshen up on your skills, please have a look at the MolSSI lesson, “[Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)”.
 
