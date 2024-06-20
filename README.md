@@ -141,18 +141,25 @@ Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
-We would like to give a special thanks to our partner for this workshop, the [Molecular Sciences Software Institute](https://molssi.org/) (MolSSI).
+We would like to give a special thanks to our partner and primary sponsor for this workshop, the [Molecular Sciences Software Institute](https://molssi.org/) (MolSSI).
 
 <img
 src="/logos/MolSSI_Logo.png"
 title="Molecular Sciences Software Institute Logo" alt="Molecular Sciences Software Institute Logo"
 style="float: left; height: 5em; " />
 
-This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative (CZI) DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989). MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
+This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative (CZI) DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989) and through the support of the [Center for Biological Physics](https://cbp.asu.edu/) at Arizona State University.
+
+MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
 
 <img
 src="/logos/CZI_Logo.jpg"
 title="Chan Zuckerberg Initiative Logo" alt="Chan Zuckerberg Initiative Logo"
+style="float: left; height: 5em; " />
+
+<img
+src="/logos/CBP_logo.png"
+title="Center for Biological Physics Logo" alt="Center for Biological Physics (CBP) at Arizona State University (logo) "
 style="float: left; height: 5em; " />
 
 <img
