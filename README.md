@@ -121,7 +121,7 @@ Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
-We would like to give a special thanks to our partner for this workshop, the [Molecular Sciences Software Institute](https://molssi.org/) (MolSSI), who is the primary sponsor of this workshop.
+We would like to give a special thanks to our partner and primary sponsor for this workshop, the [Molecular Sciences Software Institute](https://molssi.org/) (MolSSI).
 
 <img
 src="/logos/MolSSI_Logo.png"
