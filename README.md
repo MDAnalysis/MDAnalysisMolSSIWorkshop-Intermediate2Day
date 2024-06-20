@@ -113,6 +113,26 @@ The workshop assumes that attendees have a working knowledge of [Jupyter noteboo
 
 All members of the MDAnalysis community and participants in MDAnalysis workshops are expected to abide by the MDAnalysis [Code of Conduct](https://www.mdanalysis.org/pages/conduct/).
 
+## Health and Safety
+We are committed to providing a safe, comfortable, and healthy environment for the workshop and have looked to local and international entities and other organizations in the open source community to develop onsite safety measures for workshop attendees.
+
+### Testing
+A limited number of rapid self-tests will be made available at check-in for those who would like to test themselves for COVID-19 during the meeting.
+
+**Testing Positive for COVID-19**
+
+*Individuals who are COVID-positive should not attend the workshop.* If you receive a positive COVID-19 test result during the workshop, please [notify the workshop organizing committee][workshop_email] and do not return to the event while you are still COVID-positive.
+
+* We will treat any information about your testing status as confidential. (If you want to notify any of your contacts you may, of course, do so yourself.)
+* We will announce to attendees if we are made aware of anyone testing positive for SARS-Cov-2 so that all attendees and instructors are put in a position to make choices that are right for them and their exposure risk level.
+
+### Face Coverings
+Face coverings are not required, but are welcomed. We view face coverings as a personal choice and will support attendees in their choice to wear or not to wear a face covering.
+
+## Fire Safety
+Follow the instructions given at the workshop.
+
+
 ## License
 
 Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
@@ -143,3 +163,5 @@ style="float: left; height: 5em; " />
 ##
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
 [2]: https://numpy.org/
+
+[workshop_email]: mailto:workshops@mdanalysis.org
