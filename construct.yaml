@@ -1,0 +1,56 @@
+{% set version = os.environ.get("MINIFORGE_VERSION", "24.3.0-0") %}
+{% set conda_libmamba_solver_version = "24.1.0"%}
+{% set mamba_version = "1.5.8"%}
+
+name: mda_workshop
+version: jun24-ws
+company: MDAnalysis
+
+channels:
+  - conda-forge
+
+write_condarc: True
+# keep pkgs for space-saving implications for hardlinks when create new environments
+# and keep the same with Miniconda
+keep_pkgs: True
+license_file: LICENSE.md
+
+# During the interactive installation, these variables are checked.
+# During batch installation, conda is never initialized
+initialize_conda: True
+initialize_by_default: False
+
+user_requested_specs:
+  - python 3.10.*
+  - pip
+  - conda >={{ version.split("-")[0] }}
+  # Omit conda-libmamba-solver so that conda is free to remove it later
+  - mamba >={{ mamba_version }}
+  - miniforge_console_shortcut 1.*  # [win]
+
+specs:
+  - python 3.10.*
+  - conda {{ version.split("-")[0] }}
+  - conda-libmamba-solver {{ conda_libmamba_solver_version }}
+  - mamba {{ mamba_version }}
+
+  - pip
+  - miniforge_console_shortcut 1.*  # [win]
+
+  - MDAnalysis
+  - MDAnalysisTests
+  - MDAnalysisData
+  - cookiecutter
+  - nglview==3.0.3
+  - notebook<7
+  - jupyter_contrib_nbextensions
+  - importlib-metadata
+  - rdkit
+  # For sphinx
+  - mdanalysis-sphinx-theme >=1.0.1
+  # For prsentations
+  - rise
+  # testing
+  - pytest
+  - nbval
+  - ipywidgets==7.6.0
