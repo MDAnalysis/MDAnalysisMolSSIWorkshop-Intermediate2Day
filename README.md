@@ -129,7 +129,7 @@ A limited number of rapid self-tests will be made available at check-in for thos
 ### Face Coverings
 Face coverings are not required, but are welcomed. We view face coverings as a personal choice and will support attendees in their choice to wear or not to wear a face covering.
 
-## Fire Safety
+### Fire Safety
 Follow the instructions given at the workshop.
 
 
