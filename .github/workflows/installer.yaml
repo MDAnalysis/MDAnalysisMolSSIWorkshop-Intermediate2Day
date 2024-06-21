@@ -1,0 +1,45 @@
+name: Make single-file installers
+
+on:
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash -leo pipefail {0}
+
+jobs:
+  test:
+    name: Building single file installer on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-14, macos-12, ubuntu-latest, windows-latest]
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Install constructor environment with Micromamba
+      uses: mamba-org/setup-micromamba@v1
+      with:
+        environment-name: installer
+        create-args: >-
+          python=3.10
+          jinja2
+          constructor
+        init-shell: bash
+
+    - name: Create installer
+      run: constructor .
+
+    - name: Upload openfe forge to release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: mda_workshop-jun24-ws-*
+        tag: ${{ github.ref }}
+        overwrite: true
+        file_glob: true
+        prerelease: true
+        tag: 1.0
