@@ -148,7 +148,7 @@ src="/logos/MolSSI_Logo.png"
 title="Molecular Sciences Software Institute Logo" alt="Molecular Sciences Software Institute Logo"
 style="float: left; height: 5em; " />
 
-This workshop has been made possible in part by a [grant](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/) from the Chan Zuckerberg Initiative (CZI) DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989) and through the support of the [Center for Biological Physics](https://cbp.asu.edu/) at Arizona State University.
+This workshop has been made possible in part by grants ([EOSS4](https://chanzuckerberg.com/eoss/proposals/mdanalysis-faster-extensible-molecular-analysis-for-reproducible-science/) and [EOSS5](https://chanzuckerberg.com/eoss/proposals/mdanalysis-outreach-and-project-manager/)) from the [Chan Zuckerberg Initiative](https://chanzuckerberg.com) (CZI) DAF, a donor advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989) and through the support of the [Center for Biological Physics](https://cbp.asu.edu/) at Arizona State University.
 
 MDAnalysis also thanks NumFOCUS for its continued support as our fiscal sponsor.
 
