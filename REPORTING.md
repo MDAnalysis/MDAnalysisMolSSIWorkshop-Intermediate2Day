@@ -31,7 +31,7 @@ feel right, you can contact one of the following people:
   
 - Jenna Swarthout Goddard (online)
   - email: <community@mdanalysis.org>
-  - discord: 
+  - discord: `@jennaswa`
   
 - Irfan Alibary (at the workshop)
   - email: <ialibay@mdanalysis.org>
