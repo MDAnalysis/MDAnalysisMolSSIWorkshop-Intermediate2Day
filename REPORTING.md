@@ -22,7 +22,7 @@ feel right, you can contact one of the following people:
 - Oliver Beckstein (at the workshop)
   - email: <orbeckst@mdanalysis.org> 
   - discord: `@orbeckst`
-  - mobile phone: +1 480 727 9765
+  - phone (no text messages): +1 480 727 9765
   
 - Jenna Swarthout Goddard (online)
   - email: <community@mdanalysis.org>
