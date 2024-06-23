@@ -33,7 +33,7 @@ feel right, you can contact one of the following people:
   - email: <community@mdanalysis.org>
   - discord: `@jennaswa`
   
-- Irfan Alibary (at the workshop)
+- Irfan Alibary (at the workshop and online)
   - email: <ialibay@mdanalysis.org>
   - discord: `@highspeedmode`
 
