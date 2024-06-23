@@ -30,7 +30,7 @@ feel right, you can contact one of the following people:
   
 - Irfan Alibary (at the workshop)
   - email: <ialibay@mdanalysis.org>
-  - discord:
+  - discord: `@highspeedmode`
 
 
 
