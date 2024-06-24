@@ -113,6 +113,11 @@ The workshop assumes that attendees have a working knowledge of [Jupyter noteboo
 
 All members of the MDAnalysis community and participants in MDAnalysis workshops are expected to abide by the MDAnalysis [Code of Conduct](https://www.mdanalysis.org/pages/conduct/).
 
+If at any point you experience harassment or witness a violation of our Code of Conduct, please [report it](https://www.mdanalysis.org/pages/conduct/#reporting).
+
+If you just need to talk to someone, maybe you are unsure about somthing or something just doesn't quite feel right, please see the [list of ombudspersons with contact details](REPORTING.md)
+
+
 ## Health and Safety
 We are committed to providing a safe, comfortable, and healthy environment for the workshop and have looked to local and international entities and other organizations in the open source community to develop onsite safety measures for workshop attendees.
 
