@@ -109,6 +109,35 @@ If you don't have a GitHub account, create one at https://github.com first.
 
 You will need to set up credentials to securely push data to and retrieve data from GitHub. Follow the [instructions given by GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to create an SSH key and add it to your account.
 
+## Accessing the workshop repository
+
+You will work with materials in this repository. You first **clone** the repository to your own computer and then you can later update your local copy by **pulling** from the GitHub repository.
+
+Execute all the following commands in your terminal.
+
+### Cloning the workshop repository
+Create a new local repository with name `MDAnalysisMolSSIWorkshop-Intermediate2Day` in your home directory (or if you want to keep the workshop code elsewhere, change the line `cd ~` appropriately):
+```bash
+cd ~
+git clone https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day.git
+```
+
+### Update your local repository
+Change into the local repository and run the the `git pull` command
+```bash
+cd ~/MDAnalysisMolSSIWorkshop-Intermediate2Day
+git pull
+```
+
+### Working with the workshop files
+Change into your local repository and then follow along with the tutorials (e.g., launch `jupyter notebook` and work with the files in [notebooks](./notebooks))
+```bash
+cd ~/MDAnalysisMolSSIWorkshop-Intermediate2Day
+```
+
+
+
+
 
 [1]: https://jupyter-notebook.readthedocs.io/en/stable/
 [2]: https://docs.anaconda.com/anaconda/install/
