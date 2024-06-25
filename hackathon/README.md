@@ -31,8 +31,9 @@ personnel keeping an eye online to help out with questions asked on our
 
 ### Showcase
 We'll end the hackathon with a short showcase - this is your opportunity to for 
-you/your group to show of the work you did (no matter how small!).
-More details will be provided closer to the event.
+you/your group to show of the work you did (no matter how small!). If you want to 
+present, add a slide to the shared Google slides presentation. A link will
+be provided beforehand.
 
 ## What can I work on?
 
