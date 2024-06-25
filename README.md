@@ -40,6 +40,7 @@ USA
 | 14:30-16:00   | Python Packaging                	                       | [MolSSI Python Package Set-Up Lesson](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Python_Packaging.md)  	 |
 | 16:00-16:15   | Break                            	                       |   	                                                                                                                         |
 | 16:15-18:15   | Version Control                  	                       | [MolSSI git and GitHub Lessons](https://github.com/MDAnalysis/MDAnalysisMolSSIWorkshop-Intermediate2Day/blob/jun24-ws/notebooks/Version_Control.md)  	   |
+| 18:15         | Everyone gets a puppy | |
 
 ### Day 2, June 25th
 | Time (MST)    | Session                                                  | Materials                                                                                                                   |
