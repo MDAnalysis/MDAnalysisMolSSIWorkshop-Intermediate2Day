@@ -1,6 +1,6 @@
 # Reporting
 
-We all follow our [Code of Conduct](https://www.mdanalysis.org/pages/conduct).
+We all follow our [Code of Conduct](https://www.mdanalysis.org/conduct).
 
 The Code of Conduct applies in all MDAnalysis spaces, in particular to
 *both* the *in-person* and the *online* portions of this workshop (as
@@ -11,7 +11,7 @@ well as to all communications on Discord and our Discussion forums).
 
 You can always report a violation of the Code of Conduct via the form
 linked under [Code of Conduct:
-Reporting](https://www.mdanalysis.org/pages/conduct/#reporting).
+How to Report](https://www.mdanalysis.org/conduct/#how-to-report).
 
 If you experience harassment or if you witness that someone else is
 being harrassed please report it. We want all MDAnalysis spaces to be
